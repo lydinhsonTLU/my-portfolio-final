@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Hotel Management",
+    "desc": "Built using C# and Windows Forms to develop hotel management software with features such as room booking, customer management, and payment processing.",
+    "image": "winform",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/lydinhsonTLU/Winform-Csharp.git"
+    }
+  },
+  
+  {
+    "name": "Employee Management",
+    "desc": "Built using ReactJS framework to create a user interface for employee management application, including features such as add, edit, delete, and search employees.",
+    "image": "react",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/lydinhsonTLU/React.git"
+    }
+  },
+  {
+    "name": "Unsupervised Learning Algorithms",
+    "desc": "Applied unsupervised algorithms like K-means and Latent Dirichlet Allocation (LDA) to cluster and classify text data, forecasting research trends.",
+    "image": "unsupervised",
+    "category": "lamp",
+    "links": {
+      "code": "https://github.com/lydinhsonTLU/Unsupervised-Machine-Learning.git"
+    }
+  },
+  {
+    "name": "Aptech Website",
+    "desc": "Used ASP.NET MVC framework to clone an introductory website for Aptech, including pages like homepage, about, courses, and contact.",
+    "image": "aspnet",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/lydinhsonTLU/ASP.NET.git"
+    }
+  }
+]
